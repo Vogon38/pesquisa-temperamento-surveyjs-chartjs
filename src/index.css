@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.sd-imagepicker {
+  box-sizing: border-box;
+  width: 100%;
+  white-space: pre-wrap;
+  text-align: center;
+}
+
+.sd-imagepicker span {
+  margin-bottom: 10px;
+}
+
+#survey-results-chart {
+  height: 300px;
+}
+
+.chart-container {
+  height: 500px; /* Or any other fixed height you prefer */
+  position: relative;
+}
